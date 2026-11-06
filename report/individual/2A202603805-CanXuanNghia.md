@@ -54,3 +54,5 @@ Thiếu dự đoán: ['tradeoff']
 3b. Encoder (MiniLM) + LogReg    0.965   0.974
 3c. Encoder (MiniLM) + MLP head  0.947   0.947
 4a. LLM nhỏ zero-shot            0.947   0.947
+4c. LLM nhỏ few-shot             0.947   0.947
+
